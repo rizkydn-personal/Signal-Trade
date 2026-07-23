@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+MetaTrader5
+telethon
+google-genai
+pydantic
+python-multipart
