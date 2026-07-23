@@ -96,7 +96,7 @@ Project ini menulis output ke folder MetaTrader 5 Files. Pastikan path berikut t
 C:\Users\brutalx\AppData\Roaming\MetaQuotes\Terminal\D0E8209F77C8CF37AD8BF550E51FF075\MQL5\Files
 ```
 
-Kalau folder berbeda, sesuaikan `OUTPUT_DIR` di file [telegram_signal_reader.py](telegram_signal_reader.py).
+Kalau folder berbeda, sesuaikan `OUTPUT_DIR` di file [signal_reader.py](signal_reader.py).
 
 ---
 
